@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I like to code and think about humans.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'll post about coding, economics, psychology as I advance through my life and experience more things.

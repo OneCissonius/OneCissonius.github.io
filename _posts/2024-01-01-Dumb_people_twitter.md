@@ -2,7 +2,7 @@
 layout: post
 title: "List of Dumb Things People on X Post"
 date: 2024-01-01
-tags: Social_Media
+tags: "Psychology"
 ---
 ## A list of dumb things on X that infuriate me 
 
