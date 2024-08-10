@@ -17,4 +17,4 @@ tags: "Psychology"
 
 <!-- ![test image](/images/post_1/a.jpg) -->
 <!-- needs absolute url -->
-<img src="onecissonius.github.io//images/post_1/a.jpg" height="200" alt="Example of a dumb post on X">
+<img src="https://OneCissonius.github.io//images/post_1/a.jpg" height="200" alt="Example of a dumb post on X">
