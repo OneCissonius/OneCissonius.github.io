@@ -3,6 +3,10 @@ hr {
   margin-bottom: 20px;
 }
 
+body {
+    background-color: #e2dfdb; /* You can adjust this hex code to your preferred shade of light gray */
+  }
+
 /* Post navigation links */
 .post_navi {
   display: flex;
