@@ -14,3 +14,6 @@ tags: "Psychology"
 - test
 - test
 - test
+
+<!-- ![test image](/images/post_1/a.jpg) -->
+<img src="../images/post_1/a.jpg" height="200" alt="Example of a dumb post on X">
