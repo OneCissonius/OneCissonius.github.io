@@ -1,4 +1,4 @@
-# A list of dumb things on X that infuriate me 
+## A list of dumb things on X that infuriate me 
 
 - test
 - test
