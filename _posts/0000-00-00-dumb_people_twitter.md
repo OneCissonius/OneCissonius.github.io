@@ -11,5 +11,3 @@ tags: "Psychology"
 - this
 - is a
 - test !
-
-<img src="https://OneCissonius.github.io//images/_avatar_/a.jpg" height="200" alt="Example of a dumb post on X">
