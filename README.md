@@ -1,3 +1,5 @@
+# Blog
+
 https://onecissonius.github.io/
 
 ## Essay Ideas
